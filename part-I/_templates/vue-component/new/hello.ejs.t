@@ -14,7 +14,7 @@ name: "<%= name %>",
 props: {
 msg: String
 },
-methods() {}
+methods: {}
 };
 </script>
 
